@@ -1,0 +1,2 @@
+this is the OpenJS pocket for sqr.js (https://github.com/mxttutu/Squirrel.js)
+Rain.Js is a part of Squirrel.js.
